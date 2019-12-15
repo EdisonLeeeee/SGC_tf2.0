@@ -15,4 +15,4 @@ This repo is modified from [Tiiiger/SGC](https://github.com/Tiiiger/SGC).
 + citeeseer
 + pubmed
 
-Please note that the dataset partition is rather **different** (10% for train, 10% for validation and 80% for test), here we only considering the **largest connected component (LCC)** of the graph for each dataset.
+Please note that the dataset partition is rather **different** (10% for train, 10% for validation and 80% for test).
