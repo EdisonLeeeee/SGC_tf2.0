@@ -15,4 +15,4 @@ This repo is modified from [Tiiiger/SGC](https://github.com/Tiiiger/SGC).
 + citeeseer
 + pubmed
 
-Please note that the dataset partition is rather **different** (10% for train, 10% for validation and 80% for test).
+Please note that the dataset partition is rather **different** (10% for train, 10% for validation and 80% for test), leading to a higher accuracy.
