@@ -3,7 +3,7 @@ Python implement of [Simplifying Graph Convolutional Networks](https://arxiv.org
 This repo is modified from [Tiiiger/SGC](https://github.com/Tiiiger/SGC).
 
 # Requirements
-+ Python 3.7
++ Python 3.7 (since I like f-strings)
 + Tensorflow 2.0
 + numpy
 + scipy
