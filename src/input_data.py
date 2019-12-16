@@ -110,7 +110,6 @@ def sgc_precompute(features, adj, degree=2):
 
 def preprocess_adj(adj):
     """Normalize adjacency matrix."""
-#     adj = adj + sp.eye(adj.shape[0])
     adj = sp.coo_matrix(adj)
     row_sum = np.array(adj.sum(1))
     d_inv_sqrt = np.power(row_sum, -0.5).flatten()
